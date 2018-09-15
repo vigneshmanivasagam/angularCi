@@ -1,0 +1,12 @@
+.header {
+  background: #ff5d4c!important;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 60px
+}
+
+.header a {
+  color:#fff;
+}
